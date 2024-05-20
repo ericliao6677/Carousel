@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka.jpg",
+      "PackagePath": "staticwebassets\\img\\luka.jpg"
+    },
+    {
+      "Id": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka2.jpg",
+      "PackagePath": "staticwebassets\\img\\luka2.jpg"
+    },
+    {
+      "Id": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka3.jpg",
+      "PackagePath": "staticwebassets\\img\\luka3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Carousel.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Carousel.API.props",
+      "PackagePath": "build\\Carousel.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Carousel.API.props",
+      "PackagePath": "buildMultiTargeting\\Carousel.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Carousel.API.props",
+      "PackagePath": "buildTransitive\\Carousel.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

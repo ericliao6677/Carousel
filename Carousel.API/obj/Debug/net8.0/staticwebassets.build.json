@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "CYNOXI3Qot9XQPmnEOe0jAgDZhJFy9t5oB4C4GxoJQ0=",
+  "Source": "Carousel.API",
+  "BasePath": "_content/Carousel.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Carousel.API\\wwwroot",
+      "Source": "Carousel.API",
+      "ContentRoot": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\",
+      "BasePath": "_content/Carousel.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka.jpg",
+      "SourceId": "Carousel.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\",
+      "BasePath": "_content/Carousel.API",
+      "RelativePath": "img/luka.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\luka.jpg"
+    },
+    {
+      "Identity": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka2.jpg",
+      "SourceId": "Carousel.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\",
+      "BasePath": "_content/Carousel.API",
+      "RelativePath": "img/luka2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\luka2.jpg"
+    },
+    {
+      "Identity": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\img\\luka3.jpg",
+      "SourceId": "Carousel.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Eric\\Work\\20240517HW\\Carousel.API\\wwwroot\\",
+      "BasePath": "_content/Carousel.API",
+      "RelativePath": "img/luka3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\luka3.jpg"
+    }
+  ]
+}
